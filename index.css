@@ -1,0 +1,22 @@
+.form-container{
+    border: solid 1px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+}
+.form-div input{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    
+}
+.form-div{
+    padding: 50px;
+
+}
+input[type="submit"]{
+    padding: 10px 65px;
+    background-color: rgb(45, 86, 139);
+    border-radius: 18px;
+}
